@@ -97,7 +97,9 @@ p{
   padding: 10% 18%;
 }
 
-
+.pricing-column{
+  padding-top: 3px;
+}
 .col-lg{
   padding: 0% 4%;
 }
